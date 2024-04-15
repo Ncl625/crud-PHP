@@ -1,0 +1,129 @@
+h1{
+    color: rgb(175, 16, 146);
+    padding: 20px;
+    background-color: rgb(144, 249, 144);
+    text-align: center;
+    font-style: italic;
+}
+.header{
+    
+    margin-left: 5px;
+    font-size: larger;
+    padding: 5px;
+    background-color: rgb(65, 65, 65);
+}
+h2{
+    color: rgb(184, 41, 41);
+    text-align: center;
+    font-style: italic;
+    font-size: x-large;
+}
+table{
+    border-spacing: 1%;
+    border-color: crimson;
+    color: rgb(3, 3, 127);
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    width: 90%;
+    font-size: larger;
+}
+th{
+    background-color: rgb(88, 87, 87);
+    color: rgb(253, 248, 240);
+    font-style: italic;
+}
+.btn{
+    font-style: italic;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: antiquewhite;
+    padding-left: 15px;
+}
+button{
+    background-color: rgb(91, 237, 176);
+    font-size: large;
+    color: rgb(91, 16, 16);
+    font-style: italic;
+}
+.form_group{
+    margin-left: 40%;
+    
+    font-size: large;
+    
+}
+.submit{
+    text-align: center;
+    color: brown;
+    font-stretch: condensed;
+    font-size: large;
+    font-style: italic;
+    font-weight: bold;
+}
+.logbtn{
+   color: crimson;
+   font-style: italic;
+   font-size: x-large;
+   margin-left: 90%;
+}
+.logout{
+    margin-bottom: 1%;
+}
+#login{
+    border-radius: 20px;
+    background-color: rgb(248, 160, 177);
+    text-align: center;
+    width: 30%;
+    margin: 120px auto;
+}
+.baton{
+    font-style: italic;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(79, 77, 77);
+    color: antiquewhite;
+    padding: 1%, 2%;
+}
+body{
+    background-color: rgb(176, 176, 176);
+}
+.but{
+    text-align: center;
+    color: brown;
+    font-stretch: condensed;
+    font-size: large;
+    font-style: italic;
+    font-weight: bold;
+}
+h3{
+    padding: 10px;
+    color: rgb(227, 7, 7);
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+}
+.cpass{
+    color: rgb(204, 63, 115);
+    font-style: italic;
+    font-size: x-large;
+    margin-left: 60%;
+    margin-bottom: 1%;
+}
+.admin{
+    border-radius: 20px;
+    background-color: rgb(248, 160, 177);
+    text-align: center;
+    width: 30%;
+    margin: 120px auto;
+}
+#pagination{
+    background-color: rgb(9, 2, 60);
+    font-size: large;
+    color: rgb(235, 228, 228);
+    font-style: italic;
+    justify-content: center;
+    align-items: center;
+    width: 2%;
+    
+}
+
